@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Arroz</string>
+    <string name="LogIn">Log In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Arroz">Arroz</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Correo">Correo</string>
+    <string name="Numero">Numero</string>
+    <string name="Password">********</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Arroz del día</string>
+    <string name="tab_text_2">Compra</string>
+    <string name="tab_text_3">Ubicación</string>
+    <string name="ArrozdelDia">Arroz del día</string>
+    <string name="Pollo">Pollo</string>
+    <string name="Carne">Carne</string>
+    <string name="Marisco">Marisco</string>
+    <string name="Soloverduras">Solo verduras</string>
+    <string name="TodoMixto">Todo Mixto</string>
+    <string name="dinero">$$$</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
